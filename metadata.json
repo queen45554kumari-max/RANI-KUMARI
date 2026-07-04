@@ -1,0 +1,6 @@
+{
+  "name": "CultureVerse AI",
+  "description": "Your ultimate AI-powered cultural travel guide, itinerary planner, and heritage journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
